@@ -1,2 +1,25 @@
 # Ilderton Duct Cleaning
-HVAC services in Ontario.
+
+> Ilderton Duct Cleaning is a local HVAC company serving Ilderton, Middlesex, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 666-0188  |  Email: contact@ildertonductcleaning.ca  |  Website: https://ildertonductcleaning.ca
+
+## Key pages
+
+- [Home](https://ildertonductcleaning.ca/): Ilderton Duct Cleaning homepage with service overview and FAQ
+- [About](https://ildertonductcleaning.ca/about/): About the company and service area
+- [Contact](https://ildertonductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://ildertonductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Ilderton, Ontario
+- [Dryer Vent Cleaning](https://ildertonductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Ilderton, Ontario
+- [Furnace & AC Cleaning](https://ildertonductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Ilderton, Ontario
+- [HRV & Ventilation Cleaning](https://ildertonductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Ilderton, Ontario
+- [Duct Sanitizing & Deodorizing](https://ildertonductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Ilderton, Ontario
+- [Duct Sealing & Repair](https://ildertonductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Ilderton, Ontario
+- [Commercial Duct Cleaning](https://ildertonductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Ilderton, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Ilderton are answered on the homepage.
